@@ -1,0 +1,11 @@
+cleverhans==4.0.0
+einops==0.3.0
+geomloss==0.2.5
+numpy==1.19.4
+pretrainedmodels==0.7.4
+tensorflow==2.0.0
+timm==0.4.12
+torch==1.9.0
+torchvision==0.10.0
+tqdm==4.61.2
+wandb==0.10.33

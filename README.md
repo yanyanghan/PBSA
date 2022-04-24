@@ -4,8 +4,8 @@ Yanyang Han, Ju Liu, Xiaoxi Liu, Xiao Jiang, Lingchen Gu, Xuesong Gao, Weiqiang 
 
 **[code link](https://github.com/yanyanghan/PBSA.git)** 
 
-![Partial Blocks Search Process](f2.pdf)
-![Adversarial Attack Process](f3.pdf)
+![Partial Blocks Search Process](Search.jpg)
+![Adversarial Attack Process](Attack.jpg)
 
 > **Abstract:** 
 *Adversarial examples can attack multiple unknown convolutional neural networks (CNNs) due to adversarial transferability, which reveals the vulnerability of CNNs and facilitates the development of adversarial attacks. However, most of the existing adversarial attack methods possess a limited transferability on vision transformers (ViTs). In this paper, we propose a partial blocks search attack (PBSA) method to generate adversarial examples on ViTs, which significantly enhance transferability. Instead of directly employing the same strategy for all encoder blocks on ViTs, we divide encoder blocks into two categories by introducing the block weight score and exploit distinct strategies to process them. In addition, we optimize the generation of perturbations by regularizing the self-attention feature maps and creating an ensemble of partial blocks. Finally, perturbations are adjusted by an adaptive weight to disturb the most effective pixels of original images. Extensive experiments on the ImageNet dataset are conducted to demonstrate the validity and effectiveness of the proposed PBSA. The experimental results reveal the superiority of the proposed PBSA to state-of-the-art attack methods on both ViTs and CNNs. Furthermore, PBSA can be flexibly combined with existing methods, which significantly enhances the transferability of adversarial examples.*

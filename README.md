@@ -13,7 +13,7 @@ Yanyang Han, Ju Liu, Xiaoxi Liu, Xiao Jiang, Lingchen Gu, Xuesong Gao, Weiqiang 
 ## Contents
 1) [Requirements](#Requirements)
 2) [Dataset](#Dataset)
-3) [Partial Blocks Search Attack](#Partial Blocks Search Attack)
+3) [Partial Blocks Search Attack](#Partial-Blocks-Search-Attack)
 4) [References](#references)
 5) [Citation](#citation)
 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Dataset
 We select 1000 images of different categories from the ILSVRC 2012 validation dataset. In our experiments, all these images are resized to 224 × 224 × 3 before being fed into ViTs to load model parameters correctly.
 
-## Partial Blocks Search Attack
+## Partial-Blocks-Search-Attack
 <sup>([top](#contents))</sup>
  `DATA_DIR` points to the root directory containing the validation images of ImageNet (original imagenet). We support attack types FGSM, PGD, MI-FGSM, DIM, TI, and SGM by default. 
 

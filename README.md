@@ -47,10 +47,4 @@ Code borrowed from [DeiT](https://github.com/facebookresearch/deit) repository, 
 
 ## Citation
 If you find our work useful, please consider giving a star :star: and citation.
-```bibtex
-@misc{yyh,
-      title={Enhancing Adversarial Transferability with Partial Blocks on Vision Transformer}, 
-      author={Yanyang Han and Ju Liu and Xiaoxi Liu and Xiao Jiang and Lingchen Gu and Xuesong Gao and Weiqiang Chen},
-      year={2022}
-}
-```
+Han, Y., Liu, J., Liu, X. et al. Enhancing adversarial transferability with partial blocks on vision transformer. Neural Comput & Applic (2022). https://doi.org/10.1007/s00521-022-07568-9
